@@ -1,12 +1,13 @@
 ## Hi, my name is Dima Riabovol :wave:
 
-I'm a Markup developer and teacher :computer:. Strong HTML & CSS skills help me to create valid, adaptive, cross-browser web products taking into account accessibility. I have basic knowledge of JS and progressively learn it to add to my skills in close future :zap:
+I'm a Front-end developer and HTML/CSS teacher :computer:. Strong engineering skills help me to create valid, adaptive, cross-browser web products taking into account accessibility. I have solid knowledge of JS and progressively learn Angular framework to add to my skills in close future :zap:
 
 ### My skills
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript "")
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=Angular "")
 ![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat&logo=HubSpot "")
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=Sass "")
 ![PostCSS](https://img.shields.io/badge/-PostCSS-black?style=flat&logo=PostCSS "")
