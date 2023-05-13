@@ -1,6 +1,6 @@
-## Hi, my name is Dima Riabovol :wave:
+## Hi, my name is Dima :wave:
 
-I'm a Front-end developer and HTML/CSS teacher :computer:. Strong engineering skills help me to create valid, adaptive, cross-browser web products taking into account accessibility. I have solid knowledge of JS and progressively learn Angular framework to add to my skills in close future :zap:
+I'm a Front-end developer and HTML/CSS teacher :computer:. Strong engineering skills help me to create valid, adaptive, cross-browser web products taking into account accessibility. I have solid knowledge of JS and work with Angular framework :zap:
 
 ### My skills
 
@@ -8,12 +8,11 @@ I'm a Front-end developer and HTML/CSS teacher :computer:. Strong engineering sk
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript "")
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=Angular "")
-![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat&logo=HubSpot "")
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=TypeScript "")
+![RxJS](https://img.shields.io/badge/-RxJS-black?style=flat&logo=rxjs "")
+
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=Sass "")
-![PostCSS](https://img.shields.io/badge/-PostCSS-black?style=flat&logo=PostCSS "")
-![Stylelint](https://img.shields.io/badge/-Stylelint-black?style=flat&logo=Stylelint "")
-![BEM](https://img.shields.io/badge/-BEM-black?style=flat&logo=BEM "")
-![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat&logo=Photoshop "")
+![HubSpot](https://img.shields.io/badge/-HubSpot-black?style=flat&logo=HubSpot "")
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=Figma "")
 
 I love sharing experiences with others and being useful to someone, that's why I work as an HTML/CSS teacher in online courses to turn this into reality.
